@@ -1,0 +1,1 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],"parent":"yuushya:template/couch_back/couch_back_outer_right","textures":{"top":"yuushya:block_/template/gray_wool_top","all":"yuushya:block_/template/gray_wool_sides","couch":"yuushya:0extra_building_block/wool/gray_couch","sides":"yuushya:block_/template/gray_wool_sides"}}

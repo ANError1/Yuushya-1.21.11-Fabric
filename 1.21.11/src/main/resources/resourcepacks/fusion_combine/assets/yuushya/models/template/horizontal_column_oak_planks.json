@@ -1,0 +1,1 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],"parent":"yuushya:template/horizontal_column","textures":{"top":"minecraft:block/oak_planks","all":"minecraft:block/oak_planks","sides":"minecraft:block/oak_planks"}}

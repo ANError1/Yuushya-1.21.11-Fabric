@@ -1,0 +1,1 @@
+{"variants":{"facing=east":{"model":"yuushya:block/reinforced_concrete","y":90},"facing=north":{"model":"yuushya:block/reinforced_concrete"},"facing=south":{"model":"yuushya:block/reinforced_concrete","y":180},"facing=west":{"model":"yuushya:block/reinforced_concrete","y":270}}}

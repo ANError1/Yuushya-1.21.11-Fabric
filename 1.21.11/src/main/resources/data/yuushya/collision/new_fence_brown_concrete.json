@@ -1,0 +1,896 @@
+{
+  "children": [
+    "yuushya:new_fence_black_concrete",
+    "yuushya:new_fence_blue_concrete",
+    "yuushya:new_fence_cyan_concrete",
+    "yuushya:new_fence_gray_concrete",
+    "yuushya:new_fence_green_concrete",
+    "yuushya:new_fence_light_blue_concrete",
+    "yuushya:new_fence_light_gray_concrete",
+    "yuushya:new_fence_lime_concrete",
+    "yuushya:new_fence_magenta_concrete",
+    "yuushya:new_fence_orange_concrete",
+    "yuushya:new_fence_pink_concrete",
+    "yuushya:new_fence_purple_concrete",
+    "yuushya:new_fence_raw_acacia_wood",
+    "yuushya:new_fence_raw_bamboo",
+    "yuushya:new_fence_raw_birch_wood",
+    "yuushya:new_fence_raw_cherry_wood",
+    "yuushya:new_fence_raw_crimson_wood",
+    "yuushya:new_fence_raw_dark_oak_wood",
+    "yuushya:new_fence_raw_jungle_wood",
+    "yuushya:new_fence_raw_mangrove_wood",
+    "yuushya:new_fence_raw_oak_wood",
+    "yuushya:new_fence_raw_spruce_wood",
+    "yuushya:new_fence_raw_warped_wood",
+    "yuushya:new_fence_red_concrete",
+    "yuushya:new_fence_white_concrete",
+    "yuushya:new_fence_yellow_concrete"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east,pos=left,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=left,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=none,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=right,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=left,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=left,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=none,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=right,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=left,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=none,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=right,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=left,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=none,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=right,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=none,back=none",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=none,back=right",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=right,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left,front=right,back=right",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=none,back=none",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 9.5, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=none,back=right",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=right,back=none",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none,front=right,back=right",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=left,back=left",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=left,back=none",
+      "collision": [
+        { "from": [ 6.5, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=none,back=left",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=none,back=none",
+      "collision": [
+        { "from": [ 6.5, 0.0, 13.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 9.5, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=left,back=left",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=left,back=none",
+      "collision": [
+        { "from": [ 13.0, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=none,back=left",
+      "collision": [
+        { "from": [ 6.5, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=none,back=none",
+      "collision": [
+        { "from": [ 6.5, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 3.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 3.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=left,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=left,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 13.0 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=left,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=none,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=none,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.5 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=none,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=right,back=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=right,back=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 3.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right,front=right,back=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    }
+  ]
+}

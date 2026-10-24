@@ -1,0 +1,124 @@
+{
+  "children": [
+    "yuushya:handrail_middle_black_concrete",
+    "yuushya:handrail_middle_blue_concrete",
+    "yuushya:handrail_middle_cyan_concrete",
+    "yuushya:handrail_middle_gray_concrete",
+    "yuushya:handrail_middle_green_concrete",
+    "yuushya:handrail_middle_light_blue_concrete",
+    "yuushya:handrail_middle_light_gray_concrete",
+    "yuushya:handrail_middle_lime_concrete",
+    "yuushya:handrail_middle_magenta_concrete",
+    "yuushya:handrail_middle_orange_concrete",
+    "yuushya:handrail_middle_pink_concrete",
+    "yuushya:handrail_middle_purple_concrete",
+    "yuushya:handrail_middle_raw_acacia_wood",
+    "yuushya:handrail_middle_raw_bamboo",
+    "yuushya:handrail_middle_raw_birch_wood",
+    "yuushya:handrail_middle_raw_cherry_wood",
+    "yuushya:handrail_middle_raw_crimson_wood",
+    "yuushya:handrail_middle_raw_dark_oak_wood",
+    "yuushya:handrail_middle_raw_jungle_wood",
+    "yuushya:handrail_middle_raw_mangrove_wood",
+    "yuushya:handrail_middle_raw_oak_wood",
+    "yuushya:handrail_middle_raw_spruce_wood",
+    "yuushya:handrail_middle_raw_warped_wood",
+    "yuushya:handrail_middle_red_concrete",
+    "yuushya:handrail_middle_white_concrete",
+    "yuushya:handrail_middle_yellow_concrete"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east,form=0",
+      "collision": [
+        { "from": [ 12.0, 0.0, 6.0 ], "to": [ 16.0, 13.0, 10.0 ] },
+        { "from": [ 1.4142135623730958, -1.4142135623730958, 5.5 ], "to": [ 14.142135623730951, 11.313708498984761, 10.5 ] },
+        { "from": [ -1.4142135623730958, -4.242640687119284, 5.5 ], "to": [ 2.82842712474619, 0.0, 10.5 ] },
+        { "from": [ 0.7071067811865479, -5.82842712474619, 5.5 ], "to": [ 12.727922061357857, 6.192388155425119, 10.5 ] },
+        { "from": [ -2.121320343559642, -8.65685424949238, 5.5 ], "to": [ 1.4142135623730958, -5.121320343559642, 10.5 ] },
+        { "from": [ 12.5, 13.0, 6.5 ], "to": [ 15.5, 14.0, 9.5 ] },
+        { "from": [ 12.0, 14.0, 6.0 ], "to": [ 16.0, 18.0, 10.0 ] },
+        { "from": [ 4.0, -8.0, 6.0 ], "to": [ 8.0, 5.0, 10.0 ] },
+        { "from": [ 4.0, 6.0, 6.0 ], "to": [ 8.0, 10.0, 10.0 ] },
+        { "from": [ 4.5, 5.0, 6.5 ], "to": [ 7.5, 6.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=1",
+      "collision": [
+        { "from": [ 12.0, 0.0, 6.0 ], "to": [ 16.0, 13.0, 10.0 ] },
+        { "from": [ 12.5, 13.0, 6.5 ], "to": [ 15.5, 14.0, 9.5 ] },
+        { "from": [ 12.0, 14.0, 6.0 ], "to": [ 16.0, 18.0, 10.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=0",
+      "collision": [
+        { "from": [ 6.0, 0.0, 0.0 ], "to": [ 10.0, 13.0, 4.0 ] },
+        { "from": [ 5.5, -1.4142135623730958, 1.857864376269049 ], "to": [ 10.5, 11.313708498984761, 14.585786437626904 ] },
+        { "from": [ 5.5, -4.242640687119284, 13.17157287525381 ], "to": [ 10.5, 0.0, 17.414213562373096 ] },
+        { "from": [ 5.5, -5.82842712474619, 3.272077938642143 ], "to": [ 10.5, 6.192388155425119, 15.292893218813452 ] },
+        { "from": [ 5.5, -8.65685424949238, 14.585786437626904 ], "to": [ 10.5, -5.121320343559642, 18.121320343559642 ] },
+        { "from": [ 6.5, 13.0, 0.5 ], "to": [ 9.5, 14.0, 3.5 ] },
+        { "from": [ 6.0, 14.0, 0.0 ], "to": [ 10.0, 18.0, 4.0 ] },
+        { "from": [ 6.0, -8.0, 8.0 ], "to": [ 10.0, 5.0, 12.0 ] },
+        { "from": [ 6.0, 6.0, 8.0 ], "to": [ 10.0, 10.0, 12.0 ] },
+        { "from": [ 6.5, 5.0, 8.5 ], "to": [ 9.5, 6.0, 11.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=1",
+      "collision": [
+        { "from": [ 6.0, 0.0, 0.0 ], "to": [ 10.0, 13.0, 4.0 ] },
+        { "from": [ 6.5, 13.0, 0.5 ], "to": [ 9.5, 14.0, 3.5 ] },
+        { "from": [ 6.0, 14.0, 0.0 ], "to": [ 10.0, 18.0, 4.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=0",
+      "collision": [
+        { "from": [ 6.0, 0.0, 12.0 ], "to": [ 10.0, 13.0, 16.0 ] },
+        { "from": [ 5.5, -1.4142135623730958, 1.4142135623730958 ], "to": [ 10.5, 11.313708498984761, 14.142135623730951 ] },
+        { "from": [ 5.5, -4.242640687119284, -1.4142135623730958 ], "to": [ 10.5, 0.0, 2.82842712474619 ] },
+        { "from": [ 5.5, -5.82842712474619, 0.7071067811865479 ], "to": [ 10.5, 6.192388155425119, 12.727922061357857 ] },
+        { "from": [ 5.5, -8.65685424949238, -2.121320343559642 ], "to": [ 10.5, -5.121320343559642, 1.4142135623730958 ] },
+        { "from": [ 6.5, 13.0, 12.5 ], "to": [ 9.5, 14.0, 15.5 ] },
+        { "from": [ 6.0, 14.0, 12.0 ], "to": [ 10.0, 18.0, 16.0 ] },
+        { "from": [ 6.0, -8.0, 4.0 ], "to": [ 10.0, 5.0, 8.0 ] },
+        { "from": [ 6.0, 6.0, 4.0 ], "to": [ 10.0, 10.0, 8.0 ] },
+        { "from": [ 6.5, 5.0, 4.5 ], "to": [ 9.5, 6.0, 7.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=1",
+      "collision": [
+        { "from": [ 6.0, 0.0, 12.0 ], "to": [ 10.0, 13.0, 16.0 ] },
+        { "from": [ 6.5, 13.0, 12.5 ], "to": [ 9.5, 14.0, 15.5 ] },
+        { "from": [ 6.0, 14.0, 12.0 ], "to": [ 10.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=0",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.0 ], "to": [ 4.0, 13.0, 10.0 ] },
+        { "from": [ 1.857864376269049, -1.4142135623730958, 5.5 ], "to": [ 14.585786437626904, 11.313708498984761, 10.5 ] },
+        { "from": [ 13.17157287525381, -4.242640687119284, 5.5 ], "to": [ 17.414213562373096, 0.0, 10.5 ] },
+        { "from": [ 3.272077938642143, -5.82842712474619, 5.5 ], "to": [ 15.292893218813452, 6.192388155425119, 10.5 ] },
+        { "from": [ 14.585786437626904, -8.65685424949238, 5.5 ], "to": [ 18.121320343559642, -5.121320343559642, 10.5 ] },
+        { "from": [ 0.5, 13.0, 6.5 ], "to": [ 3.5, 14.0, 9.5 ] },
+        { "from": [ 0.0, 14.0, 6.0 ], "to": [ 4.0, 18.0, 10.0 ] },
+        { "from": [ 8.0, -8.0, 6.0 ], "to": [ 12.0, 5.0, 10.0 ] },
+        { "from": [ 8.0, 6.0, 6.0 ], "to": [ 12.0, 10.0, 10.0 ] },
+        { "from": [ 8.5, 5.0, 6.5 ], "to": [ 11.5, 6.0, 9.5 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 6.0 ], "to": [ 4.0, 13.0, 10.0 ] },
+        { "from": [ 0.5, 13.0, 6.5 ], "to": [ 3.5, 14.0, 9.5 ] },
+        { "from": [ 0.0, 14.0, 6.0 ], "to": [ 4.0, 18.0, 10.0 ] }
+      ]
+    }
+  ]
+}

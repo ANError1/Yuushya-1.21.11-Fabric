@@ -1,0 +1,56 @@
+{
+  "children": [
+    "yuushya:frame_right_black_concrete",
+    "yuushya:frame_right_blue_concrete",
+    "yuushya:frame_right_cyan_concrete",
+    "yuushya:frame_right_gray_concrete",
+    "yuushya:frame_right_green_concrete",
+    "yuushya:frame_right_light_blue_concrete",
+    "yuushya:frame_right_light_gray_concrete",
+    "yuushya:frame_right_lime_concrete",
+    "yuushya:frame_right_magenta_concrete",
+    "yuushya:frame_right_orange_concrete",
+    "yuushya:frame_right_pink_concrete",
+    "yuushya:frame_right_purple_concrete",
+    "yuushya:frame_right_raw_acacia_wood",
+    "yuushya:frame_right_raw_bamboo",
+    "yuushya:frame_right_raw_birch_wood",
+    "yuushya:frame_right_raw_cherry_wood",
+    "yuushya:frame_right_raw_crimson_wood",
+    "yuushya:frame_right_raw_dark_oak_wood",
+    "yuushya:frame_right_raw_jungle_wood",
+    "yuushya:frame_right_raw_mangrove_wood",
+    "yuushya:frame_right_raw_oak_wood",
+    "yuushya:frame_right_raw_spruce_wood",
+    "yuushya:frame_right_raw_warped_wood",
+    "yuushya:frame_right_red_concrete",
+    "yuushya:frame_right_white_concrete",
+    "yuushya:frame_right_yellow_concrete"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east",
+      "collision": [
+        { "from": [ 14.0, 0.0, 12.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north",
+      "collision": [
+        { "from": [ 12.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 2.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south",
+      "collision": [
+        { "from": [ 0.0, 0.0, 14.0 ], "to": [ 4.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 2.0, 16.0, 4.0 ] }
+      ]
+    }
+  ]
+}

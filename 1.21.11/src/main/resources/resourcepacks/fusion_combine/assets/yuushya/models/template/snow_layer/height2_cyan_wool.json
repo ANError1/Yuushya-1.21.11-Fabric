@@ -1,0 +1,1 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],"parent":"yuushya:template/snow_layer/height2","textures":{"top":"yuushya:block_/template/cyan_wool_top","all":"yuushya:block_/template/cyan_wool_sides","sides":"yuushya:block_/template/cyan_wool_sides"}}

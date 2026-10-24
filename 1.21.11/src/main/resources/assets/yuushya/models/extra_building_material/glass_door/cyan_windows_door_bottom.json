@@ -1,0 +1,8 @@
+{
+	"parent": "yuushya:extra_building_material/glass_door/white_windows_door_bottom",
+	"textures": {
+		"1": "yuushya:block/frame_nctm/frame_cyan_inner",
+		"2": "yuushya:0extra_building_block/rail_1",
+		"particle": "yuushya:block/frame_nctm/frame_cyan_outer"
+	}
+}

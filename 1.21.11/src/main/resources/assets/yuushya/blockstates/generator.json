@@ -1,0 +1,1 @@
+{"variants":{"facing=east":{"model":"yuushya:extra_building_material/generator","y":90},"facing=north":{"model":"yuushya:extra_building_material/generator"},"facing=south":{"model":"yuushya:extra_building_material/generator","y":180},"facing=west":{"model":"yuushya:extra_building_material/generator","y":270}}}

@@ -1,0 +1,10 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "random",
+        "extra": {
+            "width": 10,
+            "height": 5
+        }
+    }
+}

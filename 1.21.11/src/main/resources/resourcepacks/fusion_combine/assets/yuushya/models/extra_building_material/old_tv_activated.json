@@ -1,0 +1,8 @@
+{
+	"loader": "fusion:model",
+	"type": "base",
+	"parent": "yuushya:extra_building_material/old_tv_emissived",
+	"textures": {
+		"3": "yuushya:0extra_building_material/preview/old_tv_programs/activated"
+	}
+}

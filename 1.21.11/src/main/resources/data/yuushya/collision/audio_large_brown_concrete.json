@@ -1,0 +1,159 @@
+{
+  "children": [
+    "yuushya:audio_large_acacia_planks",
+    "yuushya:audio_large_a_acacia_blindwall",
+    "yuushya:audio_large_a_bamboo_blindwall",
+    "yuushya:audio_large_a_birch_blindwall",
+    "yuushya:audio_large_a_black_blindwall",
+    "yuushya:audio_large_a_blue_blindwall",
+    "yuushya:audio_large_a_brown_blindwall",
+    "yuushya:audio_large_a_cherry_blindwall",
+    "yuushya:audio_large_a_crimson_blindwall",
+    "yuushya:audio_large_a_cyan_blindwall",
+    "yuushya:audio_large_a_dark_oak_blindwall",
+    "yuushya:audio_large_a_gray_blindwall",
+    "yuushya:audio_large_a_green_blindwall",
+    "yuushya:audio_large_a_jungle_blindwall",
+    "yuushya:audio_large_a_light_blue_blindwall",
+    "yuushya:audio_large_a_light_gray_blindwall",
+    "yuushya:audio_large_a_lime_blindwall",
+    "yuushya:audio_large_a_magenta_blindwall",
+    "yuushya:audio_large_a_mangrove_blindwall",
+    "yuushya:audio_large_a_oak_blindwall",
+    "yuushya:audio_large_a_orange_blindwall",
+    "yuushya:audio_large_a_pink_blindwall",
+    "yuushya:audio_large_a_purple_blindwall",
+    "yuushya:audio_large_a_red_blindwall",
+    "yuushya:audio_large_a_spruce_blindwall",
+    "yuushya:audio_large_a_warped_blindwall",
+    "yuushya:audio_large_a_white_blindwall",
+    "yuushya:audio_large_a_yellow_blindwall",
+    "yuushya:audio_large_birch_planks",
+    "yuushya:audio_large_black_bricks",
+    "yuushya:audio_large_black_concrete",
+    "yuushya:audio_large_blue_concrete",
+    "yuushya:audio_large_blue_metal",
+    "yuushya:audio_large_bricks",
+    "yuushya:audio_large_cobblestone",
+    "yuushya:audio_large_cut_tile",
+    "yuushya:audio_large_cyan_concrete",
+    "yuushya:audio_large_dark_oak_planks",
+    "yuushya:audio_large_egg_cobblestone",
+    "yuushya:audio_large_embbed_dark_bricks",
+    "yuushya:audio_large_embbed_magenta_pale_bricks",
+    "yuushya:audio_large_embbed_pale_bricks",
+    "yuushya:audio_large_fossilized_cobblestone",
+    "yuushya:audio_large_grass",
+    "yuushya:audio_large_gray_concrete",
+    "yuushya:audio_large_gray_tile",
+    "yuushya:audio_large_gray_wall",
+    "yuushya:audio_large_green_concrete",
+    "yuushya:audio_large_jungle_planks",
+    "yuushya:audio_large_light_blue_concrete",
+    "yuushya:audio_large_light_gray_concrete",
+    "yuushya:audio_large_lime_concrete",
+    "yuushya:audio_large_magenta_concrete",
+    "yuushya:audio_large_marble",
+    "yuushya:audio_large_marble_bricks_0",
+    "yuushya:audio_large_marble_bricks_1",
+    "yuushya:audio_large_marble_cobblestone",
+    "yuushya:audio_large_mossy_bricks",
+    "yuushya:audio_large_oak_planks",
+    "yuushya:audio_large_orange_concrete",
+    "yuushya:audio_large_pale_bricks",
+    "yuushya:audio_large_pale_bricks_0",
+    "yuushya:audio_large_pale_bricks_1",
+    "yuushya:audio_large_pale_bricks_2",
+    "yuushya:audio_large_pale_bricks_3",
+    "yuushya:audio_large_park_tile",
+    "yuushya:audio_large_pink_concrete",
+    "yuushya:audio_large_purple_concrete",
+    "yuushya:audio_large_raw_acacia_wood",
+    "yuushya:audio_large_raw_bamboo",
+    "yuushya:audio_large_raw_birch_wood",
+    "yuushya:audio_large_raw_cherry_wood",
+    "yuushya:audio_large_raw_crimson_wood",
+    "yuushya:audio_large_raw_dark_oak_wood",
+    "yuushya:audio_large_raw_jungle_wood",
+    "yuushya:audio_large_raw_mangrove_wood",
+    "yuushya:audio_large_raw_oak_wood",
+    "yuushya:audio_large_raw_spruce_wood",
+    "yuushya:audio_large_raw_warped_wood",
+    "yuushya:audio_large_red_bricks",
+    "yuushya:audio_large_red_concrete",
+    "yuushya:audio_large_scarlet_tile",
+    "yuushya:audio_large_smoke_bricks",
+    "yuushya:audio_large_smooth_dark_stonetile",
+    "yuushya:audio_large_smooth_marble",
+    "yuushya:audio_large_smooth_sandtile",
+    "yuushya:audio_large_smooth_stonetile",
+    "yuushya:audio_large_spruce_planks",
+    "yuushya:audio_large_stone",
+    "yuushya:audio_large_straw_mat_a",
+    "yuushya:audio_large_straw_mat_b",
+    "yuushya:audio_large_stripped_acacia_wood",
+    "yuushya:audio_large_stripped_birch_wood",
+    "yuushya:audio_large_stripped_cherry_wood",
+    "yuushya:audio_large_stripped_crimson_stem",
+    "yuushya:audio_large_stripped_dark_oak_wood",
+    "yuushya:audio_large_stripped_jungle_wood",
+    "yuushya:audio_large_stripped_mangrove_wood",
+    "yuushya:audio_large_stripped_oak_wood",
+    "yuushya:audio_large_stripped_spruce_wood",
+    "yuushya:audio_large_stripped_warped_stem",
+    "yuushya:audio_large_white_concrete",
+    "yuushya:audio_large_wore_lime_wall",
+    "yuushya:audio_large_wore_stone",
+    "yuushya:audio_large_yellow_concrete"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east,form=0",
+      "collision": [
+        { "from": [ 4.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=1",
+      "collision": [
+        { "from": [ 3.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=0",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 13.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=0",
+      "collision": [
+        { "from": [ 0.0, 0.0, 4.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 3.0 ], "to": [ 16.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=0",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 12.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 13.0, 16.0, 16.0 ] }
+      ]
+    }
+  ]
+}

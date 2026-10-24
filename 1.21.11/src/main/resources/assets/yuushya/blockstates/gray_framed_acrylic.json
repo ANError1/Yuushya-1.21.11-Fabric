@@ -1,0 +1,297 @@
+{
+    "multipart":[
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_none"},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_none"},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_none"},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_none"},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_side"},
+        "when": {"xpos": "middle|west", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_side"},
+        "when": {"xpos": "middle|east", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_side"},
+        "when": {"xpos": "middle|west", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_side"},
+        "when": {"xpos": "middle|east", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_topdown"},
+        "when": {"xpos": "none|east", "ypos": "middle|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_topdown"},
+        "when": {"xpos": "none|west", "ypos": "middle|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_topdown"},
+        "when": {"xpos": "none|east", "ypos": "middle|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_topdown"},
+        "when": {"xpos": "none|west", "ypos": "middle|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_all"},
+        "when": {"xpos": "middle|west", "ypos": "middle|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_all"},
+        "when": {"xpos": "middle|east", "ypos": "middle|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_all"},
+        "when": {"xpos": "middle|west", "ypos": "middle|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_all"},
+        "when": {"xpos": "middle|east", "ypos": "middle|top", "zpos": "none|north"}
+        },
+
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_none","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_none","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_none","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_none","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_side","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_side","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_side","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_side","y":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_topdown","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_topdown","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_topdown","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_topdown","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_all","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|bottom", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_all","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_all","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|top", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_all","y":90},
+        "when": {"xpos": "none|east", "ypos": "middle|top", "zpos": "middle|south"}
+        },
+
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_none","y":180},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_none","y":180},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_none","y":180},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_none","y":180},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_side","y":180},
+        "when": {"xpos": "middle|east", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_side","y":180},
+        "when": {"xpos": "middle|west", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_side","y":180},
+        "when": {"xpos": "middle|east", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_side","y":180},
+        "when": {"xpos": "middle|west", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_topdown","y":180},
+        "when": {"xpos": "none|west", "ypos": "middle|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_topdown","y":180},
+        "when": {"xpos": "none|east", "ypos": "middle|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_topdown","y":180},
+        "when": {"xpos": "none|west", "ypos": "middle|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_topdown","y":180},
+        "when": {"xpos": "none|east", "ypos": "middle|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_all","y":180},
+        "when": {"xpos": "middle|east", "ypos": "middle|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_all","y":180},
+        "when": {"xpos": "middle|west", "ypos": "middle|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_all","y":180},
+        "when": {"xpos": "middle|east", "ypos": "middle|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_all","y":180},
+        "when": {"xpos": "middle|west", "ypos": "middle|top", "zpos": "none|south"}
+        },
+
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_none","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_none","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_none","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_none","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_side","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_side","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_side","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_side","y":-90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_topdown","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_topdown","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_topdown","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_topdown","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_all","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_all","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|bottom", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_all","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|top", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_all","y":-90},
+        "when": {"xpos": "none|west", "ypos": "middle|top", "zpos": "middle|north"}
+        },
+
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_none","x":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_none","x":90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_none","x":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_none","x":90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_side","x":90},
+        "when": {"xpos": "middle|west", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_side","x":90},
+        "when": {"xpos": "middle|east", "ypos": "none|bottom", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_side","x":90},
+        "when": {"xpos": "middle|west", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_side","x":90},
+        "when": {"xpos": "middle|east", "ypos": "none|bottom", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_topdown","x":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_topdown","x":90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_topdown","x":90},
+        "when": {"xpos": "none|east", "ypos": "none|bottom", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_topdown","x":90},
+        "when": {"xpos": "none|west", "ypos": "none|bottom", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_all","x":90},
+        "when": {"xpos": "middle|west", "ypos": "none|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_all","x":90},
+        "when": {"xpos": "middle|east", "ypos": "none|bottom", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_all","x":90},
+        "when": {"xpos": "middle|west", "ypos": "none|bottom", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_all","x":90},
+        "when": {"xpos": "middle|east", "ypos": "none|bottom", "zpos": "middle|north"}
+        },
+
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_none","x":-90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_none","x":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_none","x":-90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_none","x":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_side","x":-90},
+        "when": {"xpos": "middle|west", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_side","x":-90},
+        "when": {"xpos": "middle|east", "ypos": "none|top", "zpos": "none|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_side","x":-90},
+        "when": {"xpos": "middle|west", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_side","x":-90},
+        "when": {"xpos": "middle|east", "ypos": "none|top", "zpos": "none|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_topdown","x":-90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_topdown","x":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_topdown","x":-90},
+        "when": {"xpos": "none|east", "ypos": "none|top", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_topdown","x":-90},
+        "when": {"xpos": "none|west", "ypos": "none|top", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_0_all","x":-90},
+        "when": {"xpos": "middle|west", "ypos": "none|top", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_1_all","x":-90},
+        "when": {"xpos": "middle|east", "ypos": "none|top", "zpos": "middle|north"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_2_all","x":-90},
+        "when": {"xpos": "middle|west", "ypos": "none|top", "zpos": "middle|south"}
+        },
+        {"apply": {"model": "yuushya:block/compact_multipart/gray_framed_compact_3_all","x":-90},
+        "when": {"xpos": "middle|east", "ypos": "none|top", "zpos": "middle|south"}
+        }
+    ]
+}

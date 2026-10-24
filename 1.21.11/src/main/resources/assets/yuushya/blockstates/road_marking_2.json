@@ -1,0 +1,1 @@
+{"variants":{"facing=east":{"model":"yuushya:block/road_marking_2","y":90},"facing=north":{"model":"yuushya:block/road_marking_2"},"facing=south":{"model":"yuushya:block/road_marking_2","y":180},"facing=west":{"model":"yuushya:block/road_marking_2","y":270}}}

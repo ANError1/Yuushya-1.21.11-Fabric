@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "particle": "#all",
+    "sides": "yuushya:block_/template",
+    "top": "yuushya:block_/template",
+    "side": "#sides",
+    "end": "#top"
+  }
+}

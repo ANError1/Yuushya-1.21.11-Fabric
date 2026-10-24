@@ -1,0 +1,28 @@
+{
+  "blockstates": [
+    {
+      "variant": "facing=east",
+      "collision": [
+        { "from": [ 15.0, 3.0, -3.0 ], "to": [ 16.0, 13.0, 19.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north",
+      "collision": [
+        { "from": [ -3.0, 3.0, 0.0 ], "to": [ 19.0, 13.0, 1.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south",
+      "collision": [
+        { "from": [ -3.0, 3.0, 15.0 ], "to": [ 19.0, 13.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west",
+      "collision": [
+        { "from": [ 0.0, 3.0, -3.0 ], "to": [ 1.0, 13.0, 19.0 ] }
+      ]
+    }
+  ]
+}

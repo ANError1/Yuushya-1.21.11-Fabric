@@ -1,0 +1,1 @@
+{"variants":{"facing=east":{"model":"yuushya:block/tatami_","y":90},"facing=north":{"model":"yuushya:block/tatami_"},"facing=south":{"model":"yuushya:block/tatami_","y":180},"facing=west":{"model":"yuushya:block/tatami_","y":270}}}

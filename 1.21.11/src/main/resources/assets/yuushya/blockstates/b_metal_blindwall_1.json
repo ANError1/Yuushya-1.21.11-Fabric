@@ -1,0 +1,1 @@
+{"variants":{"facing=east":{"model":"yuushya:block/b_metal_blindwall","y":90},"facing=north":{"model":"yuushya:block/b_metal_blindwall"},"facing=south":{"model":"yuushya:block/b_metal_blindwall","y":180},"facing=west":{"model":"yuushya:block/b_metal_blindwall","y":270}}}

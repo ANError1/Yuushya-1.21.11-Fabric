@@ -1,0 +1,8 @@
+{
+	"ambientocclusion": false,
+	"parent": "yuushya:extra_building_material/fence/tall_iron_fence___",
+	"textures": {
+		"0": "yuushya:block/black_iron_bar",
+		"particle": "yuushya:block/black_iron_bar"
+	}
+}

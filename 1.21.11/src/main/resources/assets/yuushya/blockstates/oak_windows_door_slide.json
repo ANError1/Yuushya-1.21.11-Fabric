@@ -1,0 +1,124 @@
+{
+    "variants": {
+        "facing=east,half=lower,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide"
+        },
+        "facing=east,half=lower,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide_"
+        },
+        "facing=east,half=lower,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide"
+        },
+        "facing=east,half=lower,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide__"
+        },
+        "facing=east,half=upper,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide"
+        },
+        "facing=east,half=upper,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open"
+        },
+        "facing=east,half=upper,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_"
+        },
+        "facing=east,half=upper,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open_"
+        },
+        "facing=north,half=lower,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide",
+            "y": 270
+        },
+        "facing=north,half=lower,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide_",
+            "y": 270
+        },
+        "facing=north,half=lower,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide",
+            "y": 270
+        },
+        "facing=north,half=lower,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide__",
+            "y": 270
+        },
+        "facing=north,half=upper,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide",
+            "y": 270
+        },
+        "facing=north,half=upper,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open",
+            "y": 270
+        },
+        "facing=north,half=upper,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_",
+            "y": 270
+        },
+        "facing=north,half=upper,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open_",
+            "y": 270
+        },
+        "facing=south,half=lower,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide",
+            "y": 90
+        },
+        "facing=south,half=lower,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide_",
+            "y": 90
+        },
+        "facing=south,half=lower,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide",
+            "y": 90
+        },
+        "facing=south,half=lower,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide__",
+            "y": 90
+        },
+        "facing=south,half=upper,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide",
+            "y": 90
+        },
+        "facing=south,half=upper,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open",
+            "y": 90
+        },
+        "facing=south,half=upper,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_",
+            "y": 90
+        },
+        "facing=south,half=upper,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open_",
+            "y": 90
+        },
+        "facing=west,half=lower,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide",
+            "y": 180
+        },
+        "facing=west,half=lower,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide_",
+            "y": 180
+        },
+        "facing=west,half=lower,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide",
+            "y": 180
+        },
+        "facing=west,half=lower,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_bottom_slide__",
+            "y": 180
+        },
+        "facing=west,half=upper,hinge=left,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide",
+            "y": 180
+        },
+        "facing=west,half=upper,hinge=left,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open",
+            "y": 180
+        },
+        "facing=west,half=upper,hinge=right,open=false": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_",
+            "y": 180
+        },
+        "facing=west,half=upper,hinge=right,open=true": {
+            "model": "yuushya:extra_building_material/glass_door/oak_windows_door_top_slide_open_",
+            "y": 180
+        }
+    }
+}

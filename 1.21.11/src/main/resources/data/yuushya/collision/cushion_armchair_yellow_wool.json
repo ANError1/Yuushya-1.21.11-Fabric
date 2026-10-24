@@ -1,0 +1,112 @@
+{
+  "children": [
+    "yuushya:cushion_armchair_black_wool",
+    "yuushya:cushion_armchair_blue_wool",
+    "yuushya:cushion_armchair_brown_wool",
+    "yuushya:cushion_armchair_cyan_wool",
+    "yuushya:cushion_armchair_decorative_black_wool",
+    "yuushya:cushion_armchair_decorative_blue_wool",
+    "yuushya:cushion_armchair_decorative_brown_wool",
+    "yuushya:cushion_armchair_decorative_cyan_wool",
+    "yuushya:cushion_armchair_decorative_gray_wool",
+    "yuushya:cushion_armchair_decorative_green_wool",
+    "yuushya:cushion_armchair_decorative_light_blue_wool",
+    "yuushya:cushion_armchair_decorative_light_gray_wool",
+    "yuushya:cushion_armchair_decorative_lime_wool",
+    "yuushya:cushion_armchair_decorative_magenta_wool",
+    "yuushya:cushion_armchair_decorative_orange_wool",
+    "yuushya:cushion_armchair_decorative_pink_wool",
+    "yuushya:cushion_armchair_decorative_purple_wool",
+    "yuushya:cushion_armchair_decorative_red_wool",
+    "yuushya:cushion_armchair_decorative_white_wool",
+    "yuushya:cushion_armchair_decorative_yellow_wool",
+    "yuushya:cushion_armchair_gray_wool",
+    "yuushya:cushion_armchair_green_wool",
+    "yuushya:cushion_armchair_light_blue_wool",
+    "yuushya:cushion_armchair_light_gray_wool",
+    "yuushya:cushion_armchair_lime_wool",
+    "yuushya:cushion_armchair_magenta_wool",
+    "yuushya:cushion_armchair_market_block_blue",
+    "yuushya:cushion_armchair_market_block_brown",
+    "yuushya:cushion_armchair_market_block_green",
+    "yuushya:cushion_armchair_market_block_light_gray",
+    "yuushya:cushion_armchair_market_block_mixed",
+    "yuushya:cushion_armchair_market_block_purple",
+    "yuushya:cushion_armchair_market_block_red",
+    "yuushya:cushion_armchair_orange_wool",
+    "yuushya:cushion_armchair_pink_wool",
+    "yuushya:cushion_armchair_purple_wool",
+    "yuushya:cushion_armchair_red_wool",
+    "yuushya:cushion_armchair_white_wool"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east",
+      "collision": [
+        { "from": [ 2.0, 0.0, 1.0 ], "to": [ 4.0, 12.0, 2.0 ] },
+        { "from": [ 2.0, 0.0, 14.0 ], "to": [ 4.0, 12.0, 15.0 ] },
+        { "from": [ 8.0, -0.9343134551580157, 0.8999999761581421 ], "to": [ 15.205327118133834, 12.76536686473018, 1.899999976158142 ] },
+        { "from": [ 8.0, -0.9343134551580157, 14.100000381469727 ], "to": [ 15.205327118133834, 12.76536686473018, 15.100000381469727 ] },
+        { "from": [ 0.0, 12.0, 0.0 ], "to": [ 16.0, 13.0, 2.0 ] },
+        { "from": [ 0.0, 12.0, 14.0 ], "to": [ 16.0, 13.0, 16.0 ] },
+        { "from": [ 1.0, 6.0, 0.0 ], "to": [ 14.0, 8.0, 1.0 ] },
+        { "from": [ 1.0, 6.0, 15.0 ], "to": [ 14.0, 8.0, 16.0 ] },
+        { "from": [ 2.5, 5.0, 2.0 ], "to": [ 3.5, 7.0, 14.0 ] },
+        { "from": [ 11.0, 6.0, 1.0 ], "to": [ 13.0, 7.0, 15.0 ] },
+        { "from": [ 1.0, 7.0, 2.0 ], "to": [ 14.0, 10.0, 14.0 ] },
+        { "from": [ 10.640372248201803, 7.933042768517277, 1.899999976158142 ], "to": [ 18.38689553882449, 21.091527383179944, 14.100000381469727 ] }
+      ]
+    },
+    {
+      "variant": "facing=north",
+      "collision": [
+        { "from": [ 1.0, 0.0, 12.0 ], "to": [ 2.0, 12.0, 14.0 ] },
+        { "from": [ 14.0, 0.0, 12.0 ], "to": [ 15.0, 12.0, 14.0 ] },
+        { "from": [ 0.8999999761581421, -0.9343134551580157, 0.794672881866167 ], "to": [ 1.899999976158142, 12.76536686473018, 8.0 ] },
+        { "from": [ 14.100000381469727, -0.9343134551580157, 0.794672881866167 ], "to": [ 15.100000381469727, 12.76536686473018, 8.0 ] },
+        { "from": [ 0.0, 12.0, 0.0 ], "to": [ 2.0, 13.0, 16.0 ] },
+        { "from": [ 14.0, 12.0, 0.0 ], "to": [ 16.0, 13.0, 16.0 ] },
+        { "from": [ 0.0, 6.0, 2.0 ], "to": [ 1.0, 8.0, 15.0 ] },
+        { "from": [ 15.0, 6.0, 2.0 ], "to": [ 16.0, 8.0, 15.0 ] },
+        { "from": [ 2.0, 5.0, 12.5 ], "to": [ 14.0, 7.0, 13.5 ] },
+        { "from": [ 1.0, 6.0, 3.0 ], "to": [ 15.0, 7.0, 5.0 ] },
+        { "from": [ 2.0, 7.0, 2.0 ], "to": [ 14.0, 10.0, 15.0 ] },
+        { "from": [ 1.899999976158142, 7.933042768517277, -2.386895538824488 ], "to": [ 14.100000381469727, 21.091527383179944, 5.359627751798197 ] }
+      ]
+    },
+    {
+      "variant": "facing=south",
+      "collision": [
+        { "from": [ 14.0, 0.0, 2.0 ], "to": [ 15.0, 12.0, 4.0 ] },
+        { "from": [ 1.0, 0.0, 2.0 ], "to": [ 2.0, 12.0, 4.0 ] },
+        { "from": [ 14.100000023841858, -0.9343134551580157, 8.0 ], "to": [ 15.100000023841858, 12.76536686473018, 15.205327118133834 ] },
+        { "from": [ 0.8999996185302734, -0.9343134551580157, 8.0 ], "to": [ 1.8999996185302734, 12.76536686473018, 15.205327118133834 ] },
+        { "from": [ 14.0, 12.0, 0.0 ], "to": [ 16.0, 13.0, 16.0 ] },
+        { "from": [ 0.0, 12.0, 0.0 ], "to": [ 2.0, 13.0, 16.0 ] },
+        { "from": [ 15.0, 6.0, 1.0 ], "to": [ 16.0, 8.0, 14.0 ] },
+        { "from": [ 0.0, 6.0, 1.0 ], "to": [ 1.0, 8.0, 14.0 ] },
+        { "from": [ 2.0, 5.0, 2.5 ], "to": [ 14.0, 7.0, 3.5 ] },
+        { "from": [ 1.0, 6.0, 11.0 ], "to": [ 15.0, 7.0, 13.0 ] },
+        { "from": [ 2.0, 7.0, 1.0 ], "to": [ 14.0, 10.0, 14.0 ] },
+        { "from": [ 1.8999996185302734, 7.933042768517277, 10.640372248201803 ], "to": [ 14.100000023841858, 21.091527383179944, 18.38689553882449 ] }
+      ]
+    },
+    {
+      "variant": "facing=west",
+      "collision": [
+        { "from": [ 12.0, 0.0, 14.0 ], "to": [ 14.0, 12.0, 15.0 ] },
+        { "from": [ 12.0, 0.0, 1.0 ], "to": [ 14.0, 12.0, 2.0 ] },
+        { "from": [ 0.794672881866167, -0.9343134551580157, 14.100000023841858 ], "to": [ 8.0, 12.76536686473018, 15.100000023841858 ] },
+        { "from": [ 0.794672881866167, -0.9343134551580157, 0.8999996185302734 ], "to": [ 8.0, 12.76536686473018, 1.8999996185302734 ] },
+        { "from": [ 0.0, 12.0, 14.0 ], "to": [ 16.0, 13.0, 16.0 ] },
+        { "from": [ 0.0, 12.0, 0.0 ], "to": [ 16.0, 13.0, 2.0 ] },
+        { "from": [ 2.0, 6.0, 15.0 ], "to": [ 15.0, 8.0, 16.0 ] },
+        { "from": [ 2.0, 6.0, 0.0 ], "to": [ 15.0, 8.0, 1.0 ] },
+        { "from": [ 12.5, 5.0, 2.0 ], "to": [ 13.5, 7.0, 14.0 ] },
+        { "from": [ 3.0, 6.0, 1.0 ], "to": [ 5.0, 7.0, 15.0 ] },
+        { "from": [ 2.0, 7.0, 2.0 ], "to": [ 15.0, 10.0, 14.0 ] },
+        { "from": [ -2.386895538824488, 7.933042768517277, 1.8999996185302734 ], "to": [ 5.359627751798197, 21.091527383179944, 14.100000023841858 ] }
+      ]
+    }
+  ]
+}

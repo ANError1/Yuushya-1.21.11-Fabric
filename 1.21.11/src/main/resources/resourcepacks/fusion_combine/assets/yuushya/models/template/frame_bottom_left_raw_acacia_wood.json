@@ -1,0 +1,1 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],"parent":"yuushya:template/frame_bottom_left","textures":{"bottom":"yuushya:block_/raw_wood/raw_acacia_wood_top","all":"yuushya:block_/raw_wood/raw_acacia_wood_top","sides":"yuushya:block_/raw_wood/raw_acacia_wood_sides"}}

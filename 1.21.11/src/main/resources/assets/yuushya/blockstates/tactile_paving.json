@@ -1,0 +1,1 @@
+{"variants":{"facing=east":{"model":"yuushya:block/tactile_paving","y":90},"facing=north":{"model":"yuushya:block/tactile_paving"},"facing=south":{"model":"yuushya:block/tactile_paving","y":180},"facing=west":{"model":"yuushya:block/tactile_paving","y":270}}}

@@ -1,0 +1,1 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],"parent":"yuushya:template/ring_light","textures":{"top":"yuushya:block_/concrete/purple_concrete_top","all":"yuushya:block_/concrete/purple_concrete_top","sides":"yuushya:block_/concrete/purple_concrete_sides"}}

@@ -1,0 +1,68 @@
+{
+  "children": [
+    "yuushya:ladder_black_concrete",
+    "yuushya:ladder_blue_concrete",
+    "yuushya:ladder_cyan_concrete",
+    "yuushya:ladder_gray_concrete",
+    "yuushya:ladder_green_concrete",
+    "yuushya:ladder_light_blue_concrete",
+    "yuushya:ladder_light_gray_concrete",
+    "yuushya:ladder_lime_concrete",
+    "yuushya:ladder_magenta_concrete",
+    "yuushya:ladder_orange_concrete",
+    "yuushya:ladder_pink_concrete",
+    "yuushya:ladder_purple_concrete",
+    "yuushya:ladder_raw_acacia_wood",
+    "yuushya:ladder_raw_bamboo",
+    "yuushya:ladder_raw_birch_wood",
+    "yuushya:ladder_raw_cherry_wood",
+    "yuushya:ladder_raw_crimson_wood",
+    "yuushya:ladder_raw_dark_oak_wood",
+    "yuushya:ladder_raw_jungle_wood",
+    "yuushya:ladder_raw_mangrove_wood",
+    "yuushya:ladder_raw_oak_wood",
+    "yuushya:ladder_raw_spruce_wood",
+    "yuushya:ladder_raw_warped_wood",
+    "yuushya:ladder_red_concrete",
+    "yuushya:ladder_white_concrete",
+    "yuushya:ladder_yellow_concrete"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east",
+      "collision": [
+        { "from": [ 12.0, 3.0, 2.0 ], "to": [ 14.0, 5.0, 14.0 ] },
+        { "from": [ 12.0, 11.0, 2.0 ], "to": [ 14.0, 13.0, 14.0 ] },
+        { "from": [ 14.0, 0.0, 2.0 ], "to": [ 16.0, 16.0, 4.0 ] },
+        { "from": [ 14.0, 0.0, 12.0 ], "to": [ 16.0, 16.0, 14.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north",
+      "collision": [
+        { "from": [ 2.0, 3.0, 2.0 ], "to": [ 14.0, 5.0, 4.0 ] },
+        { "from": [ 2.0, 11.0, 2.0 ], "to": [ 14.0, 13.0, 4.0 ] },
+        { "from": [ 2.0, 0.0, 0.0 ], "to": [ 4.0, 16.0, 2.0 ] },
+        { "from": [ 12.0, 0.0, 0.0 ], "to": [ 14.0, 16.0, 2.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south",
+      "collision": [
+        { "from": [ 2.0, 3.0, 12.0 ], "to": [ 14.0, 5.0, 14.0 ] },
+        { "from": [ 2.0, 11.0, 12.0 ], "to": [ 14.0, 13.0, 14.0 ] },
+        { "from": [ 12.0, 0.0, 14.0 ], "to": [ 14.0, 16.0, 16.0 ] },
+        { "from": [ 2.0, 0.0, 14.0 ], "to": [ 4.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west",
+      "collision": [
+        { "from": [ 2.0, 3.0, 2.0 ], "to": [ 4.0, 5.0, 14.0 ] },
+        { "from": [ 2.0, 11.0, 2.0 ], "to": [ 4.0, 13.0, 14.0 ] },
+        { "from": [ 0.0, 0.0, 12.0 ], "to": [ 2.0, 16.0, 14.0 ] },
+        { "from": [ 0.0, 0.0, 2.0 ], "to": [ 2.0, 16.0, 4.0 ] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "blockstates": [
+    {
+      "variant": "facing=east,form=0",
+      "collision": [
+        { "from": [ 0.0, -7.313708498984761, 5.0 ], "to": [ 18.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=1",
+      "collision": [
+        { "from": [ 0.0, -7.313708498984761, 5.0 ], "to": [ 18.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=2",
+      "collision": [
+        { "from": [ 0.0, -7.313708498984761, 5.0 ], "to": [ 18.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=3",
+      "collision": [
+        { "from": [ 0.0, -7.313708498984761, 5.0 ], "to": [ 18.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=4",
+      "collision": [
+        { "from": [ 0.0, -7.313708498984761, 5.0 ], "to": [ 18.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=5",
+      "collision": [
+        { "from": [ 0.0, -7.313708498984761, 5.0 ], "to": [ 18.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=0",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, -2.0 ], "to": [ 11.0, 15.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=1",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, -2.0 ], "to": [ 11.0, 15.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=2",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, -2.0 ], "to": [ 11.0, 15.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=3",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, -2.0 ], "to": [ 11.0, 15.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=4",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, -2.0 ], "to": [ 11.0, 15.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=5",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, -2.0 ], "to": [ 11.0, 15.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=0",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, 0.0 ], "to": [ 11.0, 15.0, 18.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=1",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, 0.0 ], "to": [ 11.0, 15.0, 18.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=2",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, 0.0 ], "to": [ 11.0, 15.0, 18.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=3",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, 0.0 ], "to": [ 11.0, 15.0, 18.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=4",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, 0.0 ], "to": [ 11.0, 15.0, 18.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=5",
+      "collision": [
+        { "from": [ 5.0, -7.313708498984761, 0.0 ], "to": [ 11.0, 15.0, 18.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=0",
+      "collision": [
+        { "from": [ -2.0, -7.313708498984761, 5.0 ], "to": [ 16.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=1",
+      "collision": [
+        { "from": [ -2.0, -7.313708498984761, 5.0 ], "to": [ 16.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=2",
+      "collision": [
+        { "from": [ -2.0, -7.313708498984761, 5.0 ], "to": [ 16.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=3",
+      "collision": [
+        { "from": [ -2.0, -7.313708498984761, 5.0 ], "to": [ 16.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=4",
+      "collision": [
+        { "from": [ -2.0, -7.313708498984761, 5.0 ], "to": [ 16.0, 15.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=5",
+      "collision": [
+        { "from": [ -2.0, -7.313708498984761, 5.0 ], "to": [ 16.0, 15.0, 11.0 ] }
+      ]
+    }
+  ]
+}

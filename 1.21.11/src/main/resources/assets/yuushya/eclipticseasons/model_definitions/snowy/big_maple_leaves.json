@@ -1,0 +1,20 @@
+{
+	"replace": true,
+	"variants": {
+		"facing=east": {
+			"model": "yuushya:temp_snowy_foliage/leaves_maple",
+			"y": 90
+		},
+		"facing=north": {
+			"model": "yuushya:temp_snowy_foliage/leaves_maple"
+		},
+		"facing=south": {
+			"model": "yuushya:temp_snowy_foliage/leaves_maple",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "yuushya:temp_snowy_foliage/leaves_maple",
+			"y": 270
+		}
+	}
+}

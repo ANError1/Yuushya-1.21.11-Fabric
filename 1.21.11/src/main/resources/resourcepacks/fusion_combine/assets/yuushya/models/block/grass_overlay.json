@@ -1,0 +1,16 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+     "all": "yuushya:block_/grass_overlay"
+  },
+  "connections": {
+     "all": [
+        {
+           "type": "match_block",
+           "block": "yuushya:grass"
+        }
+     ]
+  }
+}

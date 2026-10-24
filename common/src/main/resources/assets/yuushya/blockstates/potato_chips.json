@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=east": [
+            {"model": "yuushya:extra_building_material/potato_chips","y": 90},
+            {"model": "yuushya:extra_building_material/potato_chips_","y": 90},
+            {"model": "yuushya:extra_building_material/potato_chips__","y": 90},
+            {"model": "yuushya:extra_building_material/potato_chips___","y": 90}
+        ],
+        "facing=north": [
+            {"model": "yuushya:extra_building_material/potato_chips"},
+            {"model": "yuushya:extra_building_material/potato_chips_"},
+            {"model": "yuushya:extra_building_material/potato_chips__"},
+            {"model": "yuushya:extra_building_material/potato_chips___"}
+        ],
+        "facing=south": [
+            {"model": "yuushya:extra_building_material/potato_chips","y": 180},
+            {"model": "yuushya:extra_building_material/potato_chips_","y": 180},
+            {"model": "yuushya:extra_building_material/potato_chips__","y": 180},
+            {"model": "yuushya:extra_building_material/potato_chips___","y": 180}
+        ],
+        "facing=west": [
+            {"model": "yuushya:extra_building_material/potato_chips","y": 270},
+            {"model": "yuushya:extra_building_material/potato_chips_","y": 270},
+            {"model": "yuushya:extra_building_material/potato_chips__","y": 270},
+            {"model": "yuushya:extra_building_material/potato_chips___","y": 270}
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 75,
+        "description": [
+            {
+                "translate": "pack.yuushya_fusion_combine.des"
+            }
+        ]
+    },
+    "fusion": {
+        "min_version": "1.2.0"
+    }
+}

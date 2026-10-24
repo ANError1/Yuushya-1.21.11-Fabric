@@ -1,0 +1,7 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],
+    "parent": "yuushya:block/template_column",
+    "textures": {
+        "sides": "yuushya:block_/top_reinforced_concrete",
+        "top": "yuushya:block_/reinforced_concrete"
+    }
+}

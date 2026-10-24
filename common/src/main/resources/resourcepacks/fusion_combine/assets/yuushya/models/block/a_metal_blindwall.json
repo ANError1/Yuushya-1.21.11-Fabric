@@ -1,0 +1,7 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],
+    "parent": "yuushya:block/template_column",
+    "textures": {
+        "sides": "yuushya:0extra_building_block/scrolldoor",
+        "top": "yuushya:0extra_building_block/scrolldoor_"
+    }
+}

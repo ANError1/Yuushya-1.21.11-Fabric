@@ -1,0 +1,20 @@
+{
+	"replace": true,
+	"variants": {
+		"facing=east": {
+			"model": "yuushya:temp_snowy_foliage/sakura_medium",
+			"y": 90
+		},
+		"facing=north": {
+			"model": "yuushya:temp_snowy_foliage/sakura_medium"
+		},
+		"facing=south": {
+			"model": "yuushya:temp_snowy_foliage/sakura_medium",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "yuushya:temp_snowy_foliage/sakura_medium",
+			"y": 270
+		}
+	}
+}

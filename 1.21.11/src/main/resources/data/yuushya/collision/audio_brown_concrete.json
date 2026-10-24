@@ -1,0 +1,159 @@
+{
+  "children": [
+    "yuushya:audio_acacia_planks",
+    "yuushya:audio_a_acacia_blindwall",
+    "yuushya:audio_a_bamboo_blindwall",
+    "yuushya:audio_a_birch_blindwall",
+    "yuushya:audio_a_black_blindwall",
+    "yuushya:audio_a_blue_blindwall",
+    "yuushya:audio_a_brown_blindwall",
+    "yuushya:audio_a_cherry_blindwall",
+    "yuushya:audio_a_crimson_blindwall",
+    "yuushya:audio_a_cyan_blindwall",
+    "yuushya:audio_a_dark_oak_blindwall",
+    "yuushya:audio_a_gray_blindwall",
+    "yuushya:audio_a_green_blindwall",
+    "yuushya:audio_a_jungle_blindwall",
+    "yuushya:audio_a_light_blue_blindwall",
+    "yuushya:audio_a_light_gray_blindwall",
+    "yuushya:audio_a_lime_blindwall",
+    "yuushya:audio_a_magenta_blindwall",
+    "yuushya:audio_a_mangrove_blindwall",
+    "yuushya:audio_a_oak_blindwall",
+    "yuushya:audio_a_orange_blindwall",
+    "yuushya:audio_a_pink_blindwall",
+    "yuushya:audio_a_purple_blindwall",
+    "yuushya:audio_a_red_blindwall",
+    "yuushya:audio_a_spruce_blindwall",
+    "yuushya:audio_a_warped_blindwall",
+    "yuushya:audio_a_white_blindwall",
+    "yuushya:audio_a_yellow_blindwall",
+    "yuushya:audio_birch_planks",
+    "yuushya:audio_black_bricks",
+    "yuushya:audio_black_concrete",
+    "yuushya:audio_blue_concrete",
+    "yuushya:audio_blue_metal",
+    "yuushya:audio_bricks",
+    "yuushya:audio_cobblestone",
+    "yuushya:audio_cut_tile",
+    "yuushya:audio_cyan_concrete",
+    "yuushya:audio_dark_oak_planks",
+    "yuushya:audio_egg_cobblestone",
+    "yuushya:audio_embbed_dark_bricks",
+    "yuushya:audio_embbed_magenta_pale_bricks",
+    "yuushya:audio_embbed_pale_bricks",
+    "yuushya:audio_fossilized_cobblestone",
+    "yuushya:audio_grass",
+    "yuushya:audio_gray_concrete",
+    "yuushya:audio_gray_tile",
+    "yuushya:audio_gray_wall",
+    "yuushya:audio_green_concrete",
+    "yuushya:audio_jungle_planks",
+    "yuushya:audio_light_blue_concrete",
+    "yuushya:audio_light_gray_concrete",
+    "yuushya:audio_lime_concrete",
+    "yuushya:audio_magenta_concrete",
+    "yuushya:audio_marble",
+    "yuushya:audio_marble_bricks_0",
+    "yuushya:audio_marble_bricks_1",
+    "yuushya:audio_marble_cobblestone",
+    "yuushya:audio_mossy_bricks",
+    "yuushya:audio_oak_planks",
+    "yuushya:audio_orange_concrete",
+    "yuushya:audio_pale_bricks",
+    "yuushya:audio_pale_bricks_0",
+    "yuushya:audio_pale_bricks_1",
+    "yuushya:audio_pale_bricks_2",
+    "yuushya:audio_pale_bricks_3",
+    "yuushya:audio_park_tile",
+    "yuushya:audio_pink_concrete",
+    "yuushya:audio_purple_concrete",
+    "yuushya:audio_raw_acacia_wood",
+    "yuushya:audio_raw_bamboo",
+    "yuushya:audio_raw_birch_wood",
+    "yuushya:audio_raw_cherry_wood",
+    "yuushya:audio_raw_crimson_wood",
+    "yuushya:audio_raw_dark_oak_wood",
+    "yuushya:audio_raw_jungle_wood",
+    "yuushya:audio_raw_mangrove_wood",
+    "yuushya:audio_raw_oak_wood",
+    "yuushya:audio_raw_spruce_wood",
+    "yuushya:audio_raw_warped_wood",
+    "yuushya:audio_red_bricks",
+    "yuushya:audio_red_concrete",
+    "yuushya:audio_scarlet_tile",
+    "yuushya:audio_smoke_bricks",
+    "yuushya:audio_smooth_dark_stonetile",
+    "yuushya:audio_smooth_marble",
+    "yuushya:audio_smooth_sandtile",
+    "yuushya:audio_smooth_stonetile",
+    "yuushya:audio_spruce_planks",
+    "yuushya:audio_stone",
+    "yuushya:audio_straw_mat_a",
+    "yuushya:audio_straw_mat_b",
+    "yuushya:audio_stripped_acacia_wood",
+    "yuushya:audio_stripped_birch_wood",
+    "yuushya:audio_stripped_cherry_wood",
+    "yuushya:audio_stripped_crimson_stem",
+    "yuushya:audio_stripped_dark_oak_wood",
+    "yuushya:audio_stripped_jungle_wood",
+    "yuushya:audio_stripped_mangrove_wood",
+    "yuushya:audio_stripped_oak_wood",
+    "yuushya:audio_stripped_spruce_wood",
+    "yuushya:audio_stripped_warped_stem",
+    "yuushya:audio_white_concrete",
+    "yuushya:audio_wore_lime_wall",
+    "yuushya:audio_wore_stone",
+    "yuushya:audio_yellow_concrete"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east,form=0",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 16.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=1",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 8.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=0",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 16.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=1",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 8.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=0",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 16.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=1",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 8.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=0",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 16.0, 12.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=1",
+      "collision": [
+        { "from": [ 4.0, 0.0, 4.0 ], "to": [ 12.0, 8.0, 12.0 ] }
+      ]
+    }
+  ]
+}

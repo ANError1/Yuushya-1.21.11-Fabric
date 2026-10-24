@@ -1,0 +1,49 @@
+{
+  "children": [
+    "yuushya:rain_shed_black_wool",
+    "yuushya:rain_shed_blue_wool",
+    "yuushya:rain_shed_brown_wool",
+    "yuushya:rain_shed_cyan_wool",
+    "yuushya:rain_shed_gray_wool",
+    "yuushya:rain_shed_green_wool",
+    "yuushya:rain_shed_light_blue_wool",
+    "yuushya:rain_shed_light_gray_wool",
+    "yuushya:rain_shed_lime_wool",
+    "yuushya:rain_shed_magenta_wool",
+    "yuushya:rain_shed_orange_wool",
+    "yuushya:rain_shed_pink_wool",
+    "yuushya:rain_shed_purple_wool",
+    "yuushya:rain_shed_red_wool",
+    "yuushya:rain_shed_white_wool"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east",
+      "collision": [
+        { "from": [ 1.2179274798194122, 8.953185549647277, 0.0 ], "to": [ 16.38268343236509, 16.0, 16.0 ] },
+        { "from": [ 1.6006109121845, 8.029306017135987, 0.0 ], "to": [ 1.9832943445495932, 8.953185549647277, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north",
+      "collision": [
+        { "from": [ 0.0, 8.953185549647277, -0.3826834323650896 ], "to": [ 16.0, 16.0, 14.782072520180588 ] },
+        { "from": [ 0.0, 8.029306017135987, 14.016705655450407 ], "to": [ 16.0, 8.953185549647277, 14.3993890878155 ] }
+      ]
+    },
+    {
+      "variant": "facing=south",
+      "collision": [
+        { "from": [ 0.0, 8.953185549647277, 1.2179274798194122 ], "to": [ 16.0, 16.0, 16.38268343236509 ] },
+        { "from": [ 0.0, 8.029306017135987, 1.6006109121845 ], "to": [ 16.0, 8.953185549647277, 1.9832943445495932 ] }
+      ]
+    },
+    {
+      "variant": "facing=west",
+      "collision": [
+        { "from": [ -0.3826834323650896, 8.953185549647277, 0.0 ], "to": [ 14.782072520180588, 16.0, 16.0 ] },
+        { "from": [ 14.016705655450407, 8.029306017135987, 0.0 ], "to": [ 14.3993890878155, 8.953185549647277, 16.0 ] }
+      ]
+    }
+  ]
+}

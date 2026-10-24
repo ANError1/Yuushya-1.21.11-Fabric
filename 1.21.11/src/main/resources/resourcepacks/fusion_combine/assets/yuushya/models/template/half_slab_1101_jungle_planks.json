@@ -1,0 +1,1 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],"parent":"yuushya:template/half_slab_1101","textures":{"top":"minecraft:block/jungle_planks","all":"minecraft:block/jungle_planks","sides":"minecraft:block/jungle_planks"}}

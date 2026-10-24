@@ -1,0 +1,8 @@
+{
+    "loader":"fusion:model","type":"base",
+    "parent": "yuushya:block/template_column",
+    "textures": {
+        "sides": "yuushya:block/asphalt",
+        "top": "yuushya:0extra_building_block/road1"
+    }
+}

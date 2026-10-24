@@ -1,0 +1,146 @@
+{
+  "children": [
+    "yuushya:board_black_acrylic",
+    "yuushya:board_black_concrete",
+    "yuushya:board_black_framed_acrylic",
+    "yuushya:board_black_wool",
+    "yuushya:board_blue_acrylic",
+    "yuushya:board_blue_concrete",
+    "yuushya:board_blue_framed_acrylic",
+    "yuushya:board_blue_framed_acrylic_alt",
+    "yuushya:board_blue_wool",
+    "yuushya:board_brown_acrylic",
+    "yuushya:board_brown_concrete",
+    "yuushya:board_brown_wool",
+    "yuushya:board_colorful_acrylic",
+    "yuushya:board_cyan_acrylic",
+    "yuushya:board_cyan_concrete",
+    "yuushya:board_cyan_wool",
+    "yuushya:board_familymart_acrylic_bottom",
+    "yuushya:board_familymart_acrylic_top",
+    "yuushya:board_gray_acrylic",
+    "yuushya:board_gray_concrete",
+    "yuushya:board_gray_wool",
+    "yuushya:board_green_acrylic",
+    "yuushya:board_green_concrete",
+    "yuushya:board_green_wool",
+    "yuushya:board_light_blue_acrylic",
+    "yuushya:board_light_blue_concrete",
+    "yuushya:board_light_blue_framed_acrylic",
+    "yuushya:board_light_blue_wool",
+    "yuushya:board_light_gray_acrylic",
+    "yuushya:board_light_gray_concrete",
+    "yuushya:board_light_gray_wool",
+    "yuushya:board_lime_acrylic",
+    "yuushya:board_lime_concrete",
+    "yuushya:board_lime_framed_acrylic",
+    "yuushya:board_lime_wool",
+    "yuushya:board_magenta_acrylic",
+    "yuushya:board_magenta_concrete",
+    "yuushya:board_magenta_wool",
+    "yuushya:board_orange_acrylic",
+    "yuushya:board_orange_concrete",
+    "yuushya:board_orange_wool",
+    "yuushya:board_pink_acrylic",
+    "yuushya:board_pink_concrete",
+    "yuushya:board_pink_wool",
+    "yuushya:board_purple_acrylic",
+    "yuushya:board_purple_concrete",
+    "yuushya:board_purple_framed_acrylic",
+    "yuushya:board_purple_framed_acrylic_alt",
+    "yuushya:board_purple_wool",
+    "yuushya:board_quartz_acrylic",
+    "yuushya:board_raw_acacia_wood",
+    "yuushya:board_raw_bamboo",
+    "yuushya:board_raw_birch_wood",
+    "yuushya:board_raw_cherry_wood",
+    "yuushya:board_raw_crimson_wood",
+    "yuushya:board_raw_dark_oak_wood",
+    "yuushya:board_raw_jungle_wood",
+    "yuushya:board_raw_mangrove_wood",
+    "yuushya:board_raw_oak_wood",
+    "yuushya:board_raw_spruce_wood",
+    "yuushya:board_raw_warped_wood",
+    "yuushya:board_red_acrylic",
+    "yuushya:board_red_concrete",
+    "yuushya:board_red_framed_acrylic",
+    "yuushya:board_red_wool",
+    "yuushya:board_sandstone_acrylic",
+    "yuushya:board_white_acrylic",
+    "yuushya:board_white_concrete",
+    "yuushya:board_white_wool",
+    "yuushya:board_yellow_acrylic",
+    "yuushya:board_yellow_concrete",
+    "yuushya:board_yellow_framed_acrylic"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east,form=0",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 2.0, 16.0, 16.0 ] },
+        { "from": [ 2.0, 0.0, 0.0 ], "to": [ 4.0, 16.0, 16.0 ] },
+        { "from": [ 2.0, 0.0, 7.099999904632568 ], "to": [ 16.0, 2.0, 8.899999618530273 ] },
+        { "from": [ 1.1507575950825029, 0.0, 7.0 ], "to": [ 16.707106781186546, 15.556349186104045, 9.0 ] },
+        { "from": [ 1.1507575950825029, 1.4142135623730931, 7.0 ], "to": [ 8.221825406947978, 8.485281374238571, 9.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 2.0, 16.0, 16.0 ] },
+        { "from": [ 2.0, 0.0, 0.0 ], "to": [ 4.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=0",
+      "collision": [
+        { "from": [ 0.0, 0.0, 14.0 ], "to": [ 16.0, 16.0, 16.0 ] },
+        { "from": [ 0.0, 0.0, 12.0 ], "to": [ 16.0, 16.0, 14.0 ] },
+        { "from": [ 7.099999904632568, 0.0, 0.0 ], "to": [ 8.899999618530273, 2.0, 14.0 ] },
+        { "from": [ 7.0, 0.0, -0.7071067811865479 ], "to": [ 9.0, 15.556349186104045, 14.849242404917497 ] },
+        { "from": [ 7.0, 1.4142135623730931, 7.778174593052022 ], "to": [ 9.0, 8.485281374238571, 14.849242404917497 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 14.0 ], "to": [ 16.0, 16.0, 16.0 ] },
+        { "from": [ 0.0, 0.0, 12.0 ], "to": [ 16.0, 16.0, 14.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=0",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 2.0 ] },
+        { "from": [ 0.0, 0.0, 2.0 ], "to": [ 16.0, 16.0, 4.0 ] },
+        { "from": [ 7.100000381469727, 0.0, 2.0 ], "to": [ 8.900000095367432, 2.0, 16.0 ] },
+        { "from": [ 7.0, 0.0, 1.1507575950825029 ], "to": [ 9.0, 15.556349186104045, 16.707106781186546 ] },
+        { "from": [ 7.0, 1.4142135623730931, 1.1507575950825029 ], "to": [ 9.0, 8.485281374238571, 8.221825406947978 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 2.0 ] },
+        { "from": [ 0.0, 0.0, 2.0 ], "to": [ 16.0, 16.0, 4.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=0",
+      "collision": [
+        { "from": [ 14.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] },
+        { "from": [ 12.0, 0.0, 0.0 ], "to": [ 14.0, 16.0, 16.0 ] },
+        { "from": [ 0.0, 0.0, 7.100000381469727 ], "to": [ 14.0, 2.0, 8.900000095367432 ] },
+        { "from": [ -0.7071067811865479, 0.0, 7.0 ], "to": [ 14.849242404917497, 15.556349186104045, 9.0 ] },
+        { "from": [ 7.778174593052022, 1.4142135623730931, 7.0 ], "to": [ 14.849242404917497, 8.485281374238571, 9.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=1",
+      "collision": [
+        { "from": [ 14.0, 0.0, 0.0 ], "to": [ 16.0, 16.0, 16.0 ] },
+        { "from": [ 12.0, 0.0, 0.0 ], "to": [ 14.0, 16.0, 16.0 ] }
+      ]
+    }
+  ]
+}

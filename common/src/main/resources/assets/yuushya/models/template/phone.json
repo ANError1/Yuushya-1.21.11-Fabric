@@ -1,0 +1,89 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"all": "yuushya:block_/template",
+		"1": "yuushya:0extra_building_block/dark_metal",
+		"2": "yuushya:0extra_building_block/gas_stove_top",
+		"particle": "#all"
+	},
+	"elements": [
+		{
+			"name": "Base",
+			"from": [5.5, 0, 3.5],
+			"to": [10.5, 1, 12.5],
+			
+			"faces": {
+				"north": {"uv": [0, 14, 5, 15], "texture": "#all"},
+				"south": {"uv": [11, 15, 16, 14], "texture": "#all"},
+				"down": {"uv": [7, 0, 12, 9], "rotation": 180, "texture": "#all", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Bottom",
+			"from": [5.5, 0, 3.5],
+			"to": [10.5, 1, 4.5],
+			
+			"faces": {
+				"east": {"uv": [0, 9, 1, 10], "rotation": 270, "texture": "#all"},
+				"west": {"uv": [6, 9, 7, 10], "rotation": 90, "texture": "#all"},
+				"up": {"uv": [1, 9, 6, 10], "rotation": 180, "texture": "#all"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [5.5, 0, 11.5],
+			"to": [10.5, 1, 12.5],
+			
+			"faces": {
+				"east": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#all"},
+				"west": {"uv": [6, 0, 7, 1], "rotation": 90, "texture": "#all"},
+				"up": {"uv": [1, 0, 6, 1], "rotation": 180, "texture": "#all"}
+			}
+		},
+		{
+			"name": "Screen",
+			"from": [5.5, 0, 4.5],
+			"to": [10.5, 1, 11.5],
+			
+			"faces": {
+				"east": {"uv": [0, 0, 1, 7], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 7], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [0, 0, 5, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Cam",
+			"from": [6, -0.1, 4],
+			"to": [8, 0, 6],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7, 0, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 0.1], "texture": "#2", "cullface": "down"},
+				"east": {"uv": [0, 0, 2, 0.1], "texture": "#2", "cullface": "down"},
+				"south": {"uv": [0, 0, 2, 0.1], "texture": "#2", "cullface": "down"},
+				"west": {"uv": [0, 0, 2, 0.1], "texture": "#2", "cullface": "down"},
+				"down": {"uv": [7, 6, 9, 8], "texture": "#2", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Cam0",
+			"from": [6.5, -0.11, 4],
+			"to": [7.5, -0.11, 5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7, 0, 4.5]},
+			"faces": {
+				"east": {"uv": [0, 0, 1, 0], "texture": "#1", "cullface": "down"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#1", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Cam1",
+			"from": [7.7, -0.11, 5.2],
+			"to": [8.2, -0.11, 5.7],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7, 0, 4.5]},
+			"faces": {
+				"east": {"uv": [0, 0, 0.5, 0], "texture": "#1", "cullface": "down"},
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}

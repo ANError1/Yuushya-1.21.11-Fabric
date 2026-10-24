@@ -1,0 +1,52 @@
+{
+  "blockstates": [
+    {
+      "variant": "facing=east,form=0",
+      "collision": [
+        { "from": [ 11.0, 4.5, 1.0 ], "to": [ 16.0, 14.0, 15.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,form=1",
+      "collision": [
+        { "from": [ 11.0, 0.0, 1.0 ], "to": [ 16.0, 16.0, 15.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=0",
+      "collision": [
+        { "from": [ 1.0, 4.5, 0.0 ], "to": [ 15.0, 14.0, 5.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,form=1",
+      "collision": [
+        { "from": [ 1.0, 0.0, 0.0 ], "to": [ 15.0, 16.0, 5.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=0",
+      "collision": [
+        { "from": [ 1.0, 4.5, 11.0 ], "to": [ 15.0, 14.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,form=1",
+      "collision": [
+        { "from": [ 1.0, 0.0, 11.0 ], "to": [ 15.0, 16.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=0",
+      "collision": [
+        { "from": [ 0.0, 4.5, 1.0 ], "to": [ 5.0, 14.0, 15.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,form=1",
+      "collision": [
+        { "from": [ 0.0, 0.0, 1.0 ], "to": [ 5.0, 16.0, 15.0 ] }
+      ]
+    }
+  ]
+}

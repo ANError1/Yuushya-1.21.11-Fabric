@@ -1,0 +1,19 @@
+{
+   "targets": [
+      "minecraft:gravel",
+      "minecraft:dirt",
+      "minecraft:grass_block",
+      "minecraft:coarse_dirt",
+      "minecraft:sand",
+      "minecraft:cobblestone",
+      "minecraft:smooth_stone",
+      "minecraft:stone",
+      "minecraft:bricks",
+      "minecraft:stone_bricks",
+      "minecraft:mossy_stone_bricks",
+      "minecraft:cracked_stone_bricks"
+   ],
+   "append": [
+      "yuushya:block/grass_overlay"
+   ]
+}

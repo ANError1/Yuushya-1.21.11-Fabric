@@ -1,0 +1,100 @@
+{
+  "blockstates": [
+    {
+      "variant": "facing=east,pos=left",
+      "collision": [
+        { "from": [ 10.0, 0.0, 5.0 ], "to": [ 16.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=middle",
+      "collision": [
+        { "from": [ 10.0, 0.0, 0.0 ], "to": [ 16.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=none",
+      "collision": [
+        { "from": [ 10.0, 0.0, 5.0 ], "to": [ 16.0, 18.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=east,pos=right",
+      "collision": [
+        { "from": [ 10.0, 0.0, 0.0 ], "to": [ 16.0, 18.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=left",
+      "collision": [
+        { "from": [ 5.0, 0.0, 0.0 ], "to": [ 16.0, 18.0, 6.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=middle",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 16.0, 18.0, 6.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=none",
+      "collision": [
+        { "from": [ 5.0, 0.0, 0.0 ], "to": [ 11.0, 18.0, 6.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=north,pos=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 11.0, 18.0, 6.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 10.0 ], "to": [ 11.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=middle",
+      "collision": [
+        { "from": [ 0.0, 0.0, 10.0 ], "to": [ 16.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=none",
+      "collision": [
+        { "from": [ 5.0, 0.0, 10.0 ], "to": [ 11.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south,pos=right",
+      "collision": [
+        { "from": [ 5.0, 0.0, 10.0 ], "to": [ 16.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=left",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 6.0, 18.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=middle",
+      "collision": [
+        { "from": [ 0.0, 0.0, 0.0 ], "to": [ 6.0, 18.0, 16.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=none",
+      "collision": [
+        { "from": [ 0.0, 0.0, 5.0 ], "to": [ 6.0, 18.0, 11.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west,pos=right",
+      "collision": [
+        { "from": [ 0.0, 0.0, 5.0 ], "to": [ 6.0, 18.0, 16.0 ] }
+      ]
+    }
+  ]
+}

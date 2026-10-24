@@ -1,0 +1,7 @@
+{"loader":"fusion:model","type":"base",
+   "fusion": {
+      "type": "continuous",
+      "rows": 12,
+      "columns": 12
+   }
+}

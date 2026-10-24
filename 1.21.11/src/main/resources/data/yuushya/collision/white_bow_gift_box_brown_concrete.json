@@ -1,0 +1,104 @@
+{
+  "children": [
+    "yuushya:white_bow_gift_box_black_concrete",
+    "yuushya:white_bow_gift_box_blue_concrete",
+    "yuushya:white_bow_gift_box_cyan_concrete",
+    "yuushya:white_bow_gift_box_decorative_black_wool",
+    "yuushya:white_bow_gift_box_decorative_blue_wool",
+    "yuushya:white_bow_gift_box_decorative_brown_wool",
+    "yuushya:white_bow_gift_box_decorative_cyan_wool",
+    "yuushya:white_bow_gift_box_decorative_gray_wool",
+    "yuushya:white_bow_gift_box_decorative_green_wool",
+    "yuushya:white_bow_gift_box_decorative_light_blue_wool",
+    "yuushya:white_bow_gift_box_decorative_light_gray_wool",
+    "yuushya:white_bow_gift_box_decorative_lime_wool",
+    "yuushya:white_bow_gift_box_decorative_magenta_wool",
+    "yuushya:white_bow_gift_box_decorative_orange_wool",
+    "yuushya:white_bow_gift_box_decorative_pink_wool",
+    "yuushya:white_bow_gift_box_decorative_purple_wool",
+    "yuushya:white_bow_gift_box_decorative_red_wool",
+    "yuushya:white_bow_gift_box_decorative_white_wool",
+    "yuushya:white_bow_gift_box_decorative_yellow_wool",
+    "yuushya:white_bow_gift_box_gray_concrete",
+    "yuushya:white_bow_gift_box_green_concrete",
+    "yuushya:white_bow_gift_box_light_blue_concrete",
+    "yuushya:white_bow_gift_box_light_gray_concrete",
+    "yuushya:white_bow_gift_box_lime_concrete",
+    "yuushya:white_bow_gift_box_magenta_concrete",
+    "yuushya:white_bow_gift_box_market_block_blue",
+    "yuushya:white_bow_gift_box_market_block_brown",
+    "yuushya:white_bow_gift_box_market_block_green",
+    "yuushya:white_bow_gift_box_market_block_light_gray",
+    "yuushya:white_bow_gift_box_market_block_mixed",
+    "yuushya:white_bow_gift_box_market_block_purple",
+    "yuushya:white_bow_gift_box_market_block_red",
+    "yuushya:white_bow_gift_box_orange_concrete",
+    "yuushya:white_bow_gift_box_pink_concrete",
+    "yuushya:white_bow_gift_box_purple_concrete",
+    "yuushya:white_bow_gift_box_red_concrete",
+    "yuushya:white_bow_gift_box_white_concrete",
+    "yuushya:white_bow_gift_box_yellow_concrete"
+  ],
+  "blockstates": [
+    {
+      "variant": "facing=east",
+      "collision": [
+        { "from": [ 3.0, 0.0, 3.0 ], "to": [ 13.0, 7.0, 13.0 ] },
+        { "from": [ 2.5, 7.0, 2.5 ], "to": [ 13.5, 9.0, 13.5 ] },
+        { "from": [ 2.8999996185302734, 0.0, 7.0 ], "to": [ 13.099999904632568, 6.900000095367432, 9.0 ] },
+        { "from": [ 7.0, 0.0, 2.9000000953674316 ], "to": [ 9.0, 6.900000095367432, 13.100000381469727 ] },
+        { "from": [ 7.0, 6.900000095367432, 2.4000000953674316 ], "to": [ 9.0, 9.100000381469727, 13.600000381469727 ] },
+        { "from": [ 2.3999996185302734, 6.900000095367432, 7.0 ], "to": [ 13.599999904632568, 9.149999618530273, 9.0 ] },
+        { "from": [ 7.0, 9.0, 5.851949702904731 ], "to": [ 9.0, 12.15432202989895, 7.923879532511287 ] },
+        { "from": [ 7.0, 8.727207996169088, 2.8686292175364816 ], "to": [ 9.0, 11.767767290141157, 5.909188511508551 ] },
+        { "from": [ 7.0, 9.0, 8.076120467488714 ], "to": [ 9.0, 12.15432202989895, 10.148050297095269 ] },
+        { "from": [ 7.0, 8.727207658994299, 10.090811151316661 ], "to": [ 9.0, 11.767766952966369, 13.13137044528873 ] }
+      ]
+    },
+    {
+      "variant": "facing=north",
+      "collision": [
+        { "from": [ 3.0, 0.0, 3.0 ], "to": [ 13.0, 7.0, 13.0 ] },
+        { "from": [ 2.5, 7.0, 2.5 ], "to": [ 13.5, 9.0, 13.5 ] },
+        { "from": [ 7.0, 0.0, 2.9000000953674316 ], "to": [ 9.0, 6.900000095367432, 13.100000381469727 ] },
+        { "from": [ 2.9000000953674316, 0.0, 7.0 ], "to": [ 13.100000381469727, 6.900000095367432, 9.0 ] },
+        { "from": [ 2.4000000953674316, 6.900000095367432, 7.0 ], "to": [ 13.600000381469727, 9.100000381469727, 9.0 ] },
+        { "from": [ 7.0, 6.900000095367432, 2.4000000953674316 ], "to": [ 9.0, 9.149999618530273, 13.600000381469727 ] },
+        { "from": [ 5.851949702904731, 9.0, 7.0 ], "to": [ 7.923879532511287, 12.15432202989895, 9.0 ] },
+        { "from": [ 2.8686292175364816, 8.727207996169088, 7.0 ], "to": [ 5.909188511508551, 11.767767290141157, 9.0 ] },
+        { "from": [ 8.076120467488714, 9.0, 7.0 ], "to": [ 10.148050297095269, 12.15432202989895, 9.0 ] },
+        { "from": [ 10.090811151316661, 8.727207658994299, 7.0 ], "to": [ 13.13137044528873, 11.767766952966369, 9.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=south",
+      "collision": [
+        { "from": [ 3.0, 0.0, 3.0 ], "to": [ 13.0, 7.0, 13.0 ] },
+        { "from": [ 2.5, 7.0, 2.5 ], "to": [ 13.5, 9.0, 13.5 ] },
+        { "from": [ 7.0, 0.0, 2.8999996185302734 ], "to": [ 9.0, 6.900000095367432, 13.099999904632568 ] },
+        { "from": [ 2.8999996185302734, 0.0, 7.0 ], "to": [ 13.099999904632568, 6.900000095367432, 9.0 ] },
+        { "from": [ 2.3999996185302734, 6.900000095367432, 7.0 ], "to": [ 13.599999904632568, 9.100000381469727, 9.0 ] },
+        { "from": [ 7.0, 6.900000095367432, 2.3999996185302734 ], "to": [ 9.0, 9.149999618530273, 13.599999904632568 ] },
+        { "from": [ 8.076120467488714, 9.0, 7.0 ], "to": [ 10.148050297095269, 12.15432202989895, 9.0 ] },
+        { "from": [ 10.090811488491449, 8.727207996169088, 7.0 ], "to": [ 13.131370782463518, 11.767767290141157, 9.0 ] },
+        { "from": [ 5.851949702904731, 9.0, 7.0 ], "to": [ 7.923879532511286, 12.15432202989895, 9.0 ] },
+        { "from": [ 2.8686295547112692, 8.727207658994299, 7.0 ], "to": [ 5.909188848683339, 11.767766952966369, 9.0 ] }
+      ]
+    },
+    {
+      "variant": "facing=west",
+      "collision": [
+        { "from": [ 3.0, 0.0, 3.0 ], "to": [ 13.0, 7.0, 13.0 ] },
+        { "from": [ 2.5, 7.0, 2.5 ], "to": [ 13.5, 9.0, 13.5 ] },
+        { "from": [ 2.9000000953674316, 0.0, 7.0 ], "to": [ 13.100000381469727, 6.900000095367432, 9.0 ] },
+        { "from": [ 7.0, 0.0, 2.8999996185302734 ], "to": [ 9.0, 6.900000095367432, 13.099999904632568 ] },
+        { "from": [ 7.0, 6.900000095367432, 2.3999996185302734 ], "to": [ 9.0, 9.100000381469727, 13.599999904632568 ] },
+        { "from": [ 2.4000000953674316, 6.900000095367432, 7.0 ], "to": [ 13.600000381469727, 9.149999618530273, 9.0 ] },
+        { "from": [ 7.0, 9.0, 8.076120467488714 ], "to": [ 9.0, 12.15432202989895, 10.148050297095269 ] },
+        { "from": [ 7.0, 8.727207996169088, 10.090811488491449 ], "to": [ 9.0, 11.767767290141157, 13.131370782463518 ] },
+        { "from": [ 7.0, 9.0, 5.851949702904731 ], "to": [ 9.0, 12.15432202989895, 7.923879532511286 ] },
+        { "from": [ 7.0, 8.727207658994299, 2.8686295547112692 ], "to": [ 9.0, 11.767766952966369, 5.909188848683339 ] }
+      ]
+    }
+  ]
+}

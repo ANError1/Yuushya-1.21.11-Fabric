@@ -1,0 +1,22 @@
+{
+	"credit": "Yuushya",
+	"textures": {
+		"particle": "#all",
+		"sides": "yuushya:block_/template",
+		"top": "yuushya:block_/template"
+	},
+	"elements": [
+		{
+			"from": [0, 4, 0],
+			"to": [16, 12, 16],
+			"faces": {
+				"north": {"uv": [0, 4, 16, 12], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [0, 4, 16, 12], "texture": "#sides", "cullface": "east"},
+				"south": {"uv": [0, 4, 16, 12], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 4, 16, 12], "texture": "#sides", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#top"}
+			}
+		}
+	]
+}

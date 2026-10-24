@@ -1,0 +1,7 @@
+{
+	"parent":"yuushya:extra_building_material/road/fix2",
+	"textures": {
+		"0": "yuushya:0extra_building_block/road_arrow_right",
+		"particle": "yuushya:0extra_building_block/road_arrow_right"
+	}
+}

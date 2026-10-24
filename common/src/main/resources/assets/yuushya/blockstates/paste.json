@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "facing=east": [
+            {"model": "yuushya:extra_building_material/jam2","y": 90},
+            {"model": "yuushya:extra_building_material/jam2_","y": 90},
+            {"model": "yuushya:extra_building_material/jam2__","y": 90}
+        ],
+        "facing=north": [
+            {"model": "yuushya:extra_building_material/jam2"},
+            {"model": "yuushya:extra_building_material/jam2_"},
+            {"model": "yuushya:extra_building_material/jam2__"}
+        ],
+        "facing=south": [
+            {"model": "yuushya:extra_building_material/jam2","y": 180},
+            {"model": "yuushya:extra_building_material/jam2_","y": 180},
+            {"model": "yuushya:extra_building_material/jam2__","y": 180}
+        ],
+        "facing=west": [
+            {"model": "yuushya:extra_building_material/jam2","y": 270},
+            {"model": "yuushya:extra_building_material/jam2_","y": 270},
+            {"model": "yuushya:extra_building_material/jam2__","y": 270}
+        ]
+    }
+}

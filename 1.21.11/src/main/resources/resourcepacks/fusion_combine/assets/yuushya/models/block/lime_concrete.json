@@ -1,0 +1,7 @@
+{"loader":"fusion:model","type":"base",
+    "parent": "yuushya:block/template_column",
+    "textures": {
+        "sides": "yuushya:block_/lime_concrete",
+        "top": "yuushya:block_/lime_concrete_top"
+    }
+}

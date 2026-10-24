@@ -1,0 +1,1 @@
+{"loader":"fusion:model","type":"connecting","connections":[{"type":"is_same_block"}],"parent":"yuushya:template/side_slab","textures":{"top":"minecraft:block/bricks","all":"minecraft:block/bricks","sides":"minecraft:block/bricks"}}

@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "yuushya:block_/acrylic/connected/acrylic_gray_framed",
+		"particle": "yuushya:block_/acrylic/connected/acrylic_gray_framed"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [16, 8, 0],
+			"faces": {
+				"north": {"uv": [0, 4, 4, 8], "texture": "#0", "cullface": "north"}
+			}
+		}
+	]
+}
