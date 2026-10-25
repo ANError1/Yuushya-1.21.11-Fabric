@@ -1,6 +1,7 @@
 {
-    "parent": "yuushya:item/maple_tree_winding",
-	"textures": {
-		"2_0": "yuushya:block/maple"
-	}
+  "parent": "yuushya:item/maple_tree_winding",
+  "textures": {
+    "2_0": "yuushya:item/mat/block_maple",
+    "missing": "yuushya:item/blank"
+  }
 }

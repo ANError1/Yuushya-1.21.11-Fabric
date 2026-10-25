@@ -14,19 +14,18 @@ import net.minecraft.world.entity.item.ItemEntity;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.food.Foods;
-import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
 
-public class FoodItem extends BlockItem {
+public class FoodItem extends YuushyaBlockItem {
 
     private Identifier finishedItem = null;
 
     public FoodItem(Block block, YuushyaRegistryData.Block yuushyaBlock, Properties properties) {
-        super(block, properties.food(foodProperties(yuushyaBlock)));
+        super(block, properties.food(foodProperties(yuushyaBlock)), 0);
         if (yuushyaBlock.properties != null && yuushyaBlock.properties.food != null && yuushyaBlock.properties.food.finishedItem != null) {
             finishedItem = Identifier.parse( yuushyaBlock.properties.food.finishedItem);
         }

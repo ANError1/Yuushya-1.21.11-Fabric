@@ -24,12 +24,23 @@ public class YuushyaBlockItem extends BlockItem {
         this.tipLines = tipLines;
     }
 
+    /**
+     * 1.21.2 起 {@code Item#getDescriptionId()} 变成 final，且固定为 {@code item.<ns>.<path>}，
+     * BlockItem 不再返回方块的翻译键。这里改走 {@link #getName(ItemStack)}，
+     * 让方块物品继续使用 {@code block.yuushya.*}，自定义名称（命名牌）仍然优先生效。
+     */
+    @Override
+    public Component getName(ItemStack itemStack) {
+        return Component.translatable(this.getBlock().getDescriptionId());
+    }
+
     @Override
     public void appendHoverText(ItemStack itemStack, TooltipContext context, TooltipDisplay display,
                                 Consumer<Component> tooltips, TooltipFlag tooltipFlag) {
         super.appendHoverText(itemStack, context, display, tooltips, tooltipFlag);
+        String base = this.getBlock().getDescriptionId();
         for (int i = 1; i <= tipLines; i++) {
-            tooltips.accept(Component.translatable(this.getDescriptionId() + ".line" + i));
+            tooltips.accept(Component.translatable(base + ".line" + i));
         }
     }
 }

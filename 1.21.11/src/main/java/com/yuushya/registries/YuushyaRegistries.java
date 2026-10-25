@@ -21,7 +21,6 @@ import net.minecraft.resources.ResourceKey;
 import net.minecraft.util.ExtraCodecs;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.MobCategory;
-import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntityType;
@@ -128,6 +127,17 @@ public class YuushyaRegistries {
                 JsonObject blockJson=NormalGSON.toJsonTree(block,YuushyaRegistryData.Block.class).getAsJsonObject();
                 YuushyaRegistryData.Block blockNew=combineYuushyaDataBlockJson(blockJson,templateBlockJson);
                 blockNew.properties.parent=block.name;
+                // 与数据生成器（ConfigReader.generateTemplateProduct）保持一致：
+                // 合并时 forms/models 数组会被拼接，但方块状态文件只按模板自身的 shapes 生成，
+                // 不一致会导致运行时多出 form=2 等变体、找不到模型。这里统一回退到模板定义。
+                if (templateBlock.blockstate != null) {
+                    if (templateBlock.blockstate.forms != null) {
+                        blockNew.blockstate.forms = new ArrayList<>(templateBlock.blockstate.forms);
+                    }
+                    if (templateBlock.blockstate.models != null) {
+                        blockNew.blockstate.models = new ArrayList<>(templateBlock.blockstate.models);
+                    }
+                }
                 String name; BlockBehaviour.Properties properties;
                 if (block.classType.equals("remain")){
                     Identifier blockIdentifier = Identifier.parse(block.name);
@@ -159,7 +169,7 @@ public class YuushyaRegistries {
             String spawnerName = particle.spawner.name;
             BlockBehaviour.Properties spawnerProperties = blockProperties(spawnerName, particle.spawner.properties);
             BLOCKS.register(spawnerName, () -> new YuushyaParticleBlock(spawnerProperties, particle.spawner.properties.lines,"ParticleBlock",particle.spawner.usage,()-> (SimpleParticleType) PARTICLE_TYPES.get(particle.name).get()));
-            ITEMS.register(spawnerName, () -> new BlockItem(BLOCKS.get(spawnerName).get(), itemProperties(spawnerName)));
+            ITEMS.register(spawnerName, () -> new com.yuushya.item.YuushyaBlockItem(BLOCKS.get(spawnerName).get(), itemProperties(spawnerName), 0));
             YuushyaCreativeModeTab.addItem(particle.spawner.itemGroup, ITEMS.get(spawnerName));
             PARTICLE_TYPES.register(particle.name, YuushyaParticleBlock.YuushyaParticleType::create);
         }

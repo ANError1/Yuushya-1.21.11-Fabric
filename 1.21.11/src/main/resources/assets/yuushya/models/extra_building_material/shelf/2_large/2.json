@@ -1,10 +1,10 @@
 {
 	"credit": "Yuushya",
 	"textures": {
-		"0": "yuushya:item/bucket_",
+		"0": "yuushya:0extra_building_material/preview/bucket_",
 		"1": "yuushya:0extra_building_block/stripped_acacia_log",
 		"2": "yuushya:block/smooth_stone_",
-		"particle": "yuushya:item/bucket_",
+		"particle": "yuushya:0extra_building_material/preview/bucket_",
 		"1_1": "block/anvil"
 	},
 	"elements": [

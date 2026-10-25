@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"main": "yuushya:block/azure/butterfly4_s_p",
-		"particle": "yuushya:item/abandon"
+		"particle": "yuushya:block_/abandon"
 	},
 	"elements": [
 		{

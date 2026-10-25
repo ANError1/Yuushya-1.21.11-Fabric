@@ -1,16 +1,6 @@
 ![poster](common/src/main/resources/assets/yuushya/textures/0extra_building_material/preview/poster/poster_2xv.png)
 ![pack](common/src/main/resources/pack.png)
 
-# Y1F
-
-This project is an unofficial 1.21.11 Fabric fork of Yuushya Townscape
-
-此项目是Yuushya Townscape的非官方1.21.11 Fabric 分支
-
-Yuushya resource pack and addons for it, Yuushya Townscape (Minecraft forge/fabric mod) belongs to authors, who has the all rights, including the distribution permissions and copyrights
-
-Yuushya资源包以及其附加包、Yuushya Townscape (Minecraft forge/neoforge/fabric mod) 的著作版权、分发许可归属于Yuushya资源包和Yuushya Townscape的创作者所有
-
 # Yuushya Townscape
 
 Yuushya是一个结合Mod与材质的建筑系列。使用Yuushya系列，你可以建造出惟妙惟肖，生动且真实的小镇景观。驻足于街坊市井中，来往于街角，餐馆，奶茶店，书屋之间，你可以在Minecraft领略真实的生活气息。 Yuushya-方块小镇Mod 拥有 800+新增的建材、装饰等；拥有不同的小系统，例如招牌，连接模型，电网，管道网络，不同颜色的抽象文字等。

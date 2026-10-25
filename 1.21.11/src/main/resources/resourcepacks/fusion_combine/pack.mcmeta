@@ -5,7 +5,9 @@
             {
                 "translate": "pack.yuushya_fusion_combine.des"
             }
-        ]
+        ],
+        "min_format": 75,
+        "max_format": 75
     },
     "fusion": {
         "min_version": "1.2.0"
